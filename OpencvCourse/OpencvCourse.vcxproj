@@ -24,6 +24,7 @@
     <ProjectGuid>{4f5bc276-f3a9-4064-a87b-6b3e996039fb}</ProjectGuid>
     <RootNamespace>OpencvCourse</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>FACEDETECT</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
