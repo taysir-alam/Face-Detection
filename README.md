@@ -5,7 +5,6 @@ Real-time face detection using OpenCV’s Haar Cascade classifier. The program o
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c7d8019c-835a-44c1-9f64-8f86c67d500b" alt="image" width="370">
 </div>
----
 
 ## Features
 - **Live webcam inference** with OpenCV `VideoCapture`
